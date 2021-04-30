@@ -1,8 +1,1 @@
 
-
-2021-04-29 11:36:48.340066
-nitrates:  general Hardness:  karbonate hardness:  nitrate:  
-2021-04-29 11:38:07.986067
-nitrates:  general Hardness:  karbonate hardness:  nitrate:  
-2021-04-29 11:39:57.260067
-nitrates: 9 general Hardness: 99 karbonate hardness: 9 nitrate: 9 
